@@ -1,0 +1,6 @@
+com\market\dto\BillDto.class
+com\market\MarketApplication.class
+com\market\dto\ProductsDto.class
+com\market\service\BillsService.class
+com\market\controllers\BillsController.class
+com\market\service\impl\BillsServiceImpl.class
